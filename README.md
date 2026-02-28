@@ -1,6 +1,6 @@
 # 🗄️ EU-Kinesis CRM & PC Optimizer 🗃️
 
-[![Author](https://img.shields.io/badge/Author-zera--mykerd-green.svg)](mailto:zera0mykerd@gmail.com)
+[![Author](https://img.shields.io/badge/Author-z-mykerd-green.svg)](mailto:zera0mykerd@gmail.com)
 [![Version](https://img.shields.io/badge/Version-1.0.0-blue.svg)]()
 [![License](https://img.shields.io/badge/License-Proprietary-red.svg)]()
 
