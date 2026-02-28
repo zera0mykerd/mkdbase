@@ -1,3 +1,6 @@
+
+<img width="651" height="995" alt="0" src="https://github.com/user-attachments/assets/3dad96dc-5cec-4618-aec2-5661dc0152b8" />
+
 # 🗄️ EU-Kinesis CRM & PC Optimizer 🗃️
 
 [![Author](https://img.shields.io/badge/Author-zMykerd-green.svg)](mailto:zera0mykerd@gmail.com)
