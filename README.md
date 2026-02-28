@@ -1,8 +1,9 @@
 # 🗄️ EU-Kinesis CRM & PC Optimizer 🗃️
 
-[![Author](https://img.shields.io/badge/Author-zera--mykerd-green.svg)](mailto:zera0mykerd@gmail.com)
-[![Version](https://img.shields.io/badge/Version-1.0.0-blue.svg)]()
-[![License](https://img.shields.io/badge/License-Proprietary-red.svg)]()
+[![Author](https://img.shields.io/badge/Author-zMykerd-green.svg)](mailto:zera0mykerd@gmail.com)
+[![Version](https://img.shields.io/badge/Version-1.2.0-blue.svg)]()
+[![License](https://img.shields.io/badge/License-Open%20Source-brightgreen.svg)]()
+[![Built With](https://img.shields.io/badge/Built%20With-Vanilla%20JS%20%26%20HTML5-orange.svg)]()
 
 > **EU-Kinesis** non è solo un database gestionale; è un'interfaccia olistica progettata per la gestione documentale di corsisti e l'ottimizzazione radicale del sistema operativo tramite script integrati.
 
